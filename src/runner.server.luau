@@ -35,4 +35,5 @@ end
 
 local replicatedSourcemapValue = Instance.new("StringValue")
 replicatedSourcemapValue.Value = HttpService:JSONEncode(replicatedSourcemap)
+replicatedSourcemapValue.Name = "sourcemap"
 replicatedSourcemapValue.Parent = ReplicatedStorage

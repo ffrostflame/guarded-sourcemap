@@ -8,7 +8,7 @@
 		"Packages": {
 			"$className": "Folder",
 			
-			"guarded-sourcemap": {
+			"guardedSourcemap": {
 				"$path": "default.project.json"
 			},
 			
