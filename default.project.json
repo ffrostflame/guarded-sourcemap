@@ -1,0 +1,6 @@
+{
+  "name": "guarded-sourcemap",
+  "tree": {
+	"$path": "src"
+  }
+}

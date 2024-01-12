@@ -1,0 +1,19 @@
+{
+	"name": "guarded-sourcemap-dev",
+	"tree": {
+	  "$className": "DataModel",
+	  
+	  "ReplicatedStorage": {
+		"$className": "ReplicatedStorage",
+		"Packages": {
+			"$className": "Folder",
+			
+			"guarded-sourcemap": {
+				"$path": "default.project.json"
+			},
+			
+			"$path": "Packages"
+		}
+	  }
+	}
+  }

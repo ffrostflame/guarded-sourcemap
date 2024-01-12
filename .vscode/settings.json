@@ -1,0 +1,9 @@
+{
+	"luau-lsp.sourcemap.rojoPath": "",
+	"luau-lsp.sourcemap.rojoProjectFile": "dev.project.json",
+	"luau-lsp.ignoreGlobs": [
+		"**/_Index/**",
+		"Packages"
+	],
+	"luau-lsp.completion.imports.enabled": true
+}
